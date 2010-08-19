@@ -1,0 +1,35 @@
+Unless specified differently in the individual code file,
+assume all code in this project is licensed under GPLv3
+
+My intention is to assume the same license as the Debian package:
+	http://packages.debian.org/squeeze/chiark-utils-bin
+
+so as, if these scripts do ever cleaned up and in a reasonable
+state, that they may be considered for inclusion as a contrib/
+to /usr/bin/summer as it is that output format which was used
+as the first test of these scripts.
+
+
+filter-chown-chmod project is free software; you can redistribute them
+and/or modify them under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 3 of the
+License, or (at your option) any later version.
+
+These programs are distributed in the hope that they will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+General Public License for more details.
+
+You should have received a copy of the GNU General Public License with
+your Debian GNU/Linux system, in /usr/share/common-licenses/GPL-3, or
+with the chiark-utils source package as the file COPYING; if not,
+email me at one of the addresses above or consult the Free Software
+Foundation's website at www.fsf.org, or the GNU Project website at
+www.gnu.org.
+
+
+Initial push will be unclean (but mostly working) code.
+
+I primarily use Debian GNU/Linux and intend to rework things
+into a cleaner form once Python 3 is the default in my main
+work enviroment (Debian)
